@@ -15,7 +15,6 @@ and cybersecurity.
 
 - C++
 - Python
-- Go
 
 ## Projects
 
